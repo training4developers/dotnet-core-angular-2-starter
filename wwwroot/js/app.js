@@ -120,7 +120,7 @@ webpackJsonp([0],{
 /***/ 26:
 /***/ function(module, exports) {
 
-	module.exports = "main {\n  color: blue; }\n"
+	module.exports = "h1 {\n  color: blue; }\n"
 
 /***/ },
 
