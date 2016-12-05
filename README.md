@@ -1,6 +1,6 @@
 # .NET Core + Angular 2 Tutorial - Part 1
 
-## Read the tutorial here: [future link](http://www.accelebrate.com)
+Read the tutorial here: [future link](http://www.accelebrate.com)
 
 ## Quick Instructions
 
