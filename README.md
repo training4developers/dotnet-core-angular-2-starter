@@ -4,13 +4,15 @@
 
 ## Quick Instructions
 
-1. Download or the clone this repo to your local system.
+Step 1. Download or the clone this repo to your local system.
 
-2. Open a terminal, and change to the folder where the package.json file exists.
+Step 2. Open a terminal, and change to the folder where the package.json file exists.
 
-3. Run the following command:
+Step 3. Run the following command:
 
+```bash
 $ npm i && npm start
+```
 
-4. Browse the URL specified in the console.
+Step 4. Browse the URL specified in the console.
 
