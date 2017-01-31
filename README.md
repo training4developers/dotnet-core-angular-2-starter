@@ -1,6 +1,6 @@
 # .NET Core + Angular 2 Tutorial - Part 1
 
-Read the tutorial here: [https://github.com/training4developers/dotnet-core-angular2-starter](https://github.com/training4developers/dotnet-core-angular2-starter)
+Read the tutorial here: [https://www.accelebrate.com/library/tutorials/angular2-net-core](https://www.accelebrate.com/library/tutorials/angular2-net-core)
 
 ## Quick Instructions
 
